@@ -1,0 +1,25 @@
+{
+  "name": "functional-programming",
+  "version": "1.0.0",
+  "description": "i shop at lv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byukan/functional-programming.git"
+  },
+  "author": "Brant Yukan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/byukan/functional-programming/issues"
+  },
+  "homepage": "https://github.com/byukan/functional-programming#readme",
+  "dependencies": {
+    "jsonfile": "^6.0.1",
+    "moment": "^2.29.1",
+    "random": "^2.2.0",
+    "simple-git": "^2.21.0"
+  }
+}
